@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+.satisfy-regular {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body{
+   background-color: #d6eadf;
+  }
+
+h1{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+}
+
+ .olass h2{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+    text-size-adjust: 8px;
+    padding: -2px;
+}
+
+.olass h3{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+    text-size-adjust: 10px;
+    padding: -2px;
+}
+
+p{
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+}
+
+div{
+    background-color:#d6eadf;
+}
+
+.tema{
+    text-align: right;
+
+}
+
+
+nav{
+    background-color: #a1bbad;
+    padding: 10px 0;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline;
+    margin: o 15px;
+}
+
+nav ul li a{
+    color: #d6eadf;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius:  5px;
+}
+
+nav ul li a:hover{
+    background-color: #b2c0b9;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagenes img{
+    height: 200px;
+    width: 200px;
+   height: auto;
+   margin: 0 10px;
+}
+
+.imagenes1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.imagenes1 img{
+    height: 200px;
+    width: 200px;
+   height: auto;
+   margin: 0 10px;
+}
+
+.olas{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+    text-size-adjust: 8px;
+    padding: 10px;
+}
+
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none; 
+    color: white; 
+    background-color: #a1bbad; 
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer; 
+    font-size: 16px; 
+  }
+  
+  .boton:hover {
+    background-color: #bed6c9; 
+  }
+
+li{
+    text-align: center;
+    font-family: "Poetsen One", sans-serif;
+    display: list-item;
+}
+
+ul{
+    text-align: center;
+    font-family: "Satisfy", cursive;
+}
+
+ul, ol {
+  list-style-position: inside;
+}
+
+
+footer{
+    background-color: #a1bbad;
+    padding: 20px;
+    text-align: right;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #a1bbad;
+}
+
+.footer-content img{
+    border-radius: 50%;
+    max-width: 60px;
+    height: auto;
+    margin: 0 20px;
+}
+
+.footer-content h3{
+    margin: 0px;
+    font-family: "Satisfy", cursive;
+}
